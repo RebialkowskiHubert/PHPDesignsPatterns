@@ -1,5 +1,10 @@
 <?php
 
+/*
+Example use:
+Connection with database
+*/
+
 class Config 
 {
     private static $instance;
