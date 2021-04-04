@@ -1,0 +1,7 @@
+Use it when you want to implement a lot of implementation of one object (for lots of objects).
+
+1. Create base implementation (interface) of objects -> Document
+2. Create objects -> HTML, PDF
+3. Create base implementation (interface) of factory -> DocumentFactory
+4. Create factories of objects -> PDFFactory, HTMLFactory
+5. Use factory -> Page
